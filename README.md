@@ -5,8 +5,8 @@ Note: this is unofficial
 
 
 Steps:
-- Create empty directories nyu/{test,train,val}/{i,d}
-- Download the NYU V2 dataset onto nyu/
+- Create empty directories ./nyu/{test,train,val}/{i,d} and ./models/
+- Download the NYU V2 dataset onto ./nyu/
 - Run dataloaderv2.py
 
 For training:
